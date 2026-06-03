@@ -9,7 +9,7 @@ echo -e "${GREEN}=== به اسکریپت راه‌اندازی پروکسی سر
 
 # ۱. تعریف لینک دانلود هسته Xray (لینک گیت‌هاب خودت یا یک هاست آزاد را اینجا بذار)
 # نکته: سرور ایران باید بتونه این لینک رو بدون تحریم دانلود کنه
-XRAY_DOWNLOAD_URL="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Xray-linux-64.zip"
+XRAY_DOWNLOAD_URL="https://github.com/omid9748/xray-core-storage/blob/6b8cc4df704a887a562cc0f057e608b610735f11/Xray-linux-64.zip"
 
 # ۲. ایجاد پوشه کاری و دانلود Xray
 echo -e "${GREEN}[*] در حال ساخت پوشه‌ها و دانلود هسته Xray...${NC}"
